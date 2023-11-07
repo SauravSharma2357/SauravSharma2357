@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Saurav Sharma</h1>
 <h3 align="center">A passionate Programmer & Web developer from India</h3>
-<ing align="right" alt"coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt"coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravsharma2357&label=Profile%20views&color=0e75b6&style=flat" alt="sauravsharma2357" /> </p>
 
