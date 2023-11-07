@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img style="border-radius: 100; margin-top: 50;;" align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b7/93/ae/b793aebd01b9271b999d03dfaf76be21.gif" />
+<img style="border-radius: 100px; margin-top: 50px;;" align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b7/93/ae/b793aebd01b9271b999d03dfaf76be21.gif" />
 
 - 🔭 I’m currently working on [Portfolio Website](sauravsharmaportfolio.com)
 
