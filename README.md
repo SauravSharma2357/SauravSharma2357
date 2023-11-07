@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Saurav Sharma</h1>
 <h3 align="center">A passionate Programmer & Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b7/93/ae/b793aebd01b9271b999d03dfaf76be21.gif")
-(https://i.pinimg.com/originals/b7/93/ae/b793aebd01b9271b999d03dfaf76be21.gif)" />
+<img style="border-radius: 100px; margin-top: 50;;" align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b7/93/ae/b793aebd01b9271b999d03dfaf76be21.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravsharma2357&label=Profile%20views&color=0e75b6&style=flat" alt="sauravsharma2357" /> </p>
 
