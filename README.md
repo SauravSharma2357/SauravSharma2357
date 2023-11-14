@@ -1,5 +1,5 @@
-<section>
-  [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
+<section [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)>
+  
 
 <h1 align="center">Hi 👋, I'm Saurav Sharma</h1>
 <h3 align="center">A passionate Programmer & Web developer from India</h3>
