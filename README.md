@@ -29,12 +29,16 @@
 
 - ⚡ Fun fact **I am a Gamer🎮 too.**
 
+<hr />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saurav-sharma-3ab56a249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurav-sharma-3ab56a249" height="30" width="40" style="border: 2px solid blue; padding: 2; margin-right: 5px;"/></a>
 <a href="https://www.hackerrank.com/sauravsharma2357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sauravsharma2357" height="30" width="40" style="border: 2px solid black; padding: 2; margin-right: 5px;" /></a>
 <a href="https://www.leetcode.com/sauravsharma2357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sauravsharma2357" height="30" width="40" style="border: 2px solid black; padding: 2; margin-right: 5px;"/></a>
 </p>
+
+<hr />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
