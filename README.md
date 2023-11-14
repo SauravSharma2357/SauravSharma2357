@@ -1,4 +1,4 @@
-<section [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)>
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
   
 
 <h1 align="center">Hi 👋, I'm Saurav Sharma</h1>
@@ -46,4 +46,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravsharma2357&" alt="sauravsharma2357" />
 </p>
 
-</section>
