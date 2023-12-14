@@ -9,23 +9,23 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio Website](sauravsharmaportfolio.com)
+- 🔭 I’m currently working on [Portfolio Website]([sauravsharmaportfolio.com](https://sauravsharmaportfolio.com/))
 
 - 🌱 I’m currently learning **Back-end Development**
 
-- 👯 I’m looking to collaborate on [AA](sauravsharmaportfolio.com)
+- 👯 I’m looking to collaborate on [Amazon Clone]()
 
-- 🤝 I’m looking for help with [BB](sauravsharmaportfolio.com)
+- 🤝 I’m looking for help with [Back-end Development]()
 
-- 👨‍💻 All of my projects are available at [sauravsharmaportfolio.com](sauravsharmaportfolio.com)
+- 👨‍💻 All of my projects are available at [sauravsharmaportfolio.com]([sauravsharmaportfolio.com](https://sauravsharmaportfolio.com/))
 
-- 📝 I regularly write articles on [sauravsharmaportfolio.com](sauravsharmaportfolio.com)
+- 📝 I regularly write articles on [sauravsharmaportfolio.com]([sauravsharmaportfolio.com](https://sauravsharmaportfolio.com/))
 
 - 💬 Ask me about **JAVA DSA, Front-end, SQL.**
 
 - 📫 How to reach me **sauravsharma2357@gmail.com**
 
-- 📄 Know about my experiences [sauravsharmaportfolio.com](sauravsharmaportfolio.com)
+- 📄 Know about my experiences [sauravsharmaportfolio.com]([sauravsharmaportfolio.com](https://sauravsharmaportfolio.com/))
 
 - ⚡ Fun fact **I am a Gamer🎮 too.**
 
